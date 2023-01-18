@@ -1,6 +1,0 @@
-{
-  "plugins": [
-    ["recordAndTuple", { "syntaxType": "hash" }],
-    "destructuringPrivate"
-  ]
-}

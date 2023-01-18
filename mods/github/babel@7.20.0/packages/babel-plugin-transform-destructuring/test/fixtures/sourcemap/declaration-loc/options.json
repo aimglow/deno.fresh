@@ -1,4 +1,0 @@
-{
-  "plugins": ["transform-destructuring"],
-  "sourceMap": true
-}
